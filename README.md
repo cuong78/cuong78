@@ -11,10 +11,6 @@ I'm a passionate developer with a strong interest in technology and a commitment
 
 🚀 Frameworks & Technologies
 - **Spring Boot**
-- **Node.js**
-- **Angular**
-- **JavaScript Frameworks**
-
 🤝 Looking to Collaborate
 I'm passionate about:
 
